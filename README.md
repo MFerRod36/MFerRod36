@@ -2,7 +2,7 @@
 <h3 align="center">👩‍💻 Front-End Developer | UX/UI</h3>
 <p align="center">Web Interfaces that Connect</p>
 <p align="center">
-  <img src="Github.svg" alt="Banner" width="100%" />
+  <img src="assets/Github.svg" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
