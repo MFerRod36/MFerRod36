@@ -25,8 +25,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-UX%2FUI%20Design-critical?style=flat-square&logo=figma" />&nbsp;
-  <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-</p>  
-  
-  
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-Design-FF9A00?style=flat-square&logo=adobeillustrator" />&nbsp;
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-Design-31A8FF?style=flat-square&logo=adobephotoshop" />
+</p>
+   
