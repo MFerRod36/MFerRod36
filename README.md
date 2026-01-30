@@ -1,9 +1,6 @@
 <h1 align="center">Fernanda Rodríguez</h1>
 <h3 align="center">👩‍💻 Front-End Developer | UX/UI</h3>
 <p align="center">Web Interfaces that Connect</p>
-<p align="center">
-  <img src="assets/Github.svg" alt="Banner" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />&nbsp;
